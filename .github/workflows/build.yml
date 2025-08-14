@@ -13,7 +13,7 @@ env:
   DOCKER_BUILDKIT: 1
   DOCKER_IMAGE: ghcr.io/zaherg/claude-code-router
   DOCKER_IMAGE_VERSION: latest
-  TRIVY_VERSION: 0.32.0
+  TRIVY_VERSION: 0.65.0
 
 jobs:
   
